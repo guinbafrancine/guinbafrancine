@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guinbafrancine
 - 👀 I’m interested in epidemiology
 - 🌱 I’m currently learning mathematics
-- 💞️ I’m looking to collaborate on modelisation
+- 💞️ I’m looking to collaborate on mathematics modeling
 - 📫 How to reach me email
 - 😄 Pronouns: she
 - ⚡ Fun fact: yes
